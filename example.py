@@ -1,4 +1,4 @@
-import NYT
+import NYT_reader as NYT
 from pprint import pprint
 import pickle
 
